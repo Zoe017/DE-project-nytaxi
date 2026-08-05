@@ -1,0 +1,5 @@
+.venv/
+green_tripdata_2025-11.parquet
+taxi_zone_lookup.csv
+__pycache__/
+.DS_Store
